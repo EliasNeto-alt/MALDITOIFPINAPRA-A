@@ -1,0 +1,25 @@
+body{
+margin: 0 auto;
+padding:0;
+background-image: linear-gradient(to bottom,#FFFFF8, #dcffdd);
+}
+.header{
+background: #DCFFDD;
+color: black;
+display: flex;
+justify-content: cantary; 
+align-Items: center;
+height: 5%;
+position:absolute;
+width: 100%;
+}
+.logo{
+    background-image: url(Logo-IFPI-Horizontal\ 1.png);
+    background-repeat: no-repeat;
+    background-size: 70% 95%;
+    background-position-x: center;
+    width: 400px;
+    height: 50px;
+    position: absolute;
+    left: 38%;
+}
